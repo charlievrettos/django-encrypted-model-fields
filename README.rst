@@ -1,15 +1,11 @@
 Django Encrypted Model Fields
 =============================
 
-.. image:: https://travis-ci.org/lanshark/django-encrypted-model-fields.png
-   :target: https://travis-ci.org/lanshark/django-encrypted-model-fields
-
 About
 -----
 
-This is a fork of https://github.com/foundertherapy/django-cryptographic-fields.
-It has been renamed, and updated to properly support Python3 and latest versions
-of Django.
+This is a copy of https://gitlab.com/lansharkconsulting/django/django-encrypted-model-fields.
+It has been moved to GitHub.
 
 ``django-encrypted-model-fields`` is set of fields that wrap standard Django
 fields with encryption provided by the python cryptography library. These
