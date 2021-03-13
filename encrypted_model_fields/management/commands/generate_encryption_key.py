@@ -1,7 +1,7 @@
 from django.core.management.base import BaseCommand
-from django.utils.six import PY2
 
 import cryptography.fernet
+from six import PY2
 
 
 class Command(BaseCommand):
